@@ -1,7 +1,43 @@
 # Log dos treinos:
 
 
-## 28/08/21 - 
+## 29/08/21 - [Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)](https://codeforces.com/contest/1556) - 2 horas 30 min
+
+Esse contest fiz ao vivo. Consegui resolver o A e B rápidos, porém tomei WA no C e fiquei um bom tempo tentando ajeitar. Já tinha visto
+um problema interativo bem parecido com o D. O E foi um problema bem legal em que usei segtree. Tive a ideia rápido, porém demorei para implementar.
+
+No total eram 8 problemas dos quais resolvi 5. Problemas resolvidos:
+
+A. A Variety of Operations [(solução)](https://codeforces.com/contest/1556/submission/127335616)
+
+B. Take Your Places! [(solução)](https://codeforces.com/contest/1556/submission/127345355)
+
+C. Compressed Bracket Sequence [(solução)](https://codeforces.com/contest/1556/submission/127359141)
+
+D. Take a Guess [(solução)](https://codeforces.com/contest/1556/submission/127363982)
+
+E. Equilibrium [(solução)](https://codeforces.com/contest/1556/submission/127376421)
+
+O problema F era bem interessante. Um problema de expected value, bitmasks e grafos! Infelizmente não tive a ideia dele na hora do contest.
+
+
+### Tempo total gasto: 29 horas 15 min
+
+Contests em time: 15 horas
+
+Contests individuais: 13 horas 45 min
+
+Upsolve: 30 min
+
+
+
+## 28/08/21 - [Red de Programación Competitiva](https://www.facebook.com/RedProgramacionCompetitiva/photos/a.1503242896588228/3046737212238781) - 5 horas
+
+Nosso time participou desse contest como o time Zicadont's. Ele foi um contest equivalente à subregional da América Central. Foi mal settado, com enunciados imprecisos e casos teste errados. No geral, uma prova fácil.
+
+Na minha opinião só tiveram 3 problemas legais: A, G e J. O A era de Trie; G de DP, bitmasks e grafo; e o J um dijkstra com bruteforce. Ficamos na sexta colocação do contest, mesmo tendo uma penalidade muito alta.
+
+Foram 17 problemas no total e nós conseguimos resolver todos. [Aqui estão os problemas e soluções.](https://github.com/nathanluiz33/MAC0214---2021.2/tree/main/problems_solved/Red%20de%20Programación%20Competitiva)
 
 
 ### Tempo total gasto: 24 horas 15 min
