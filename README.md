@@ -1,7 +1,31 @@
 # Log dos treinos:
 
 
+## 28/08/21 - 
 
+
+### Tempo total gasto: 24 horas 15 min
+
+Contests em time: 10 horas
+
+Contests individuais: 13 horas 45 min
+
+Upsolve: 30 min
+
+
+## 26/08/21 - [Codeforces Round #740 (Div. 1, based on VK Cup 2021 - Final (Engine))](https://codeforces.com/contest/1558) - 2 horas 30 minutos
+
+Normalmente não costumo simular contests Div. 1 (por serem mais difíceis), mas esse parecia ser bem settado. Demorei bastante para passar o problema A, porém o C era mais fácil do que normalmente seria. Nesse contest passei o B antes do A pois não queria ficar muito tempo travado em um só problema, como aconteceu anteriormente.
+
+Eram 6 problemas no total e resolvi 3 deles. Problemas resolvidos:
+
+A. Charmed by the Game [(solução)](https://codeforces.com/contest/1558/submission/127130211)
+
+B. Up the Strip [(solução)](https://codeforces.com/contest/1558/submission/127128691)
+
+C. Bottom-Tier Reversals [(solução)](https://codeforces.com/contest/1558/submission/127133911)
+
+Não fiz upsolve do D por ele ter um rating muito maior do que o meu atual.
 
 
 ### Tempo total gasto: 21 horas 45 min
