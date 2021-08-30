@@ -1,6 +1,16 @@
 # Log dos treinos:
 
 
+### Tempo total gasto: 31 horas 45 min
+
+Contests em time: 15 horas
+
+Contests individuais: 16 horas 15 min
+
+Upsolve: 30 min
+
+
+
 ## 29/08/21 - [Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)](https://codeforces.com/contest/1556) - 2 horas 30 min
 
 Esse contest fiz ao vivo. Consegui resolver o A e B rápidos, porém tomei WA no C e fiquei um bom tempo tentando ajeitar. Já tinha visto
