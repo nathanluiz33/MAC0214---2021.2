@@ -1,6 +1,67 @@
 # Log dos treinos:
 
 
+
+### Tempo total gasto: 36 horas 45 min
+
+Contests em time: 15 horas
+
+Contests individuais: 20 horas 45 min
+
+Upsolve: 1 hora
+
+
+
+## 31/08/21 - [Codeforces Round #736 (Div. 1)](https://codeforces.com/contest/1548) - 2 horas 15 min
+
+Esse foi um contest virtual. Normalmente não costumo simular contests Div. 1 por serem mais difíceis, porém esse eu tentei.
+Acabei demorando bastante para resolver o A. Errei bastante no B também.
+
+No total eram 6 problemas e resolvi 2. Problemas resolvidos:
+
+A. Web of Lies [(solução)](https://codeforces.com/contest/1548/submission/127563041)
+
+B. Integers Have Friends [(solução)](https://codeforces.com/contest/1548/submission/127564107)
+
+O C e D1 eram problemas bem legais. O D1 era geometria e o C de matemática. Fiz upsolve dos dois:
+
+C. The Three Little Pigs [(solução)](https://codeforces.com/contest/1548/submission/128083463)
+
+D1. Gregor and the Odd Cows (Easy) [(solução)](https://codeforces.com/contest/1548/submission/127868759)
+
+
+
+### Tempo total gasto: 34 horas 00 min
+
+Contests em time: 15 horas
+
+Contests individuais: 18 horas 30 min
+
+Upsolve: 30 min
+
+
+
+## 30/08/21 - [Codeforces Round #741 (Div. 2)](https://codeforces.com/contest/1562) - 2 horas 15 min
+
+Esse foi um contest simulado. Acabei errando bastante no início da prova. Tomei 4 WA's na primeira hora, porém passei até o D1 relativamente rápido.
+O problema D2 era um pouco mais difícil que o D1, porém se usasse set ficava bem melhor de implementar.
+
+No total eram 7 problemas e eu resolvi 5. Problemas resolvidos:
+
+A. The Miracle and the Sleeper [(solução)](https://codeforces.com/contest/1562/submission/127476985)
+
+B. Scenes From a Memory [(solução)](https://codeforces.com/contest/1562/submission/127477918)
+
+C. Rings [(solução)](https://codeforces.com/contest/1562/submission/127478561)
+
+D1. Two Hundred Twenty One (easy version) [(solução)](https://codeforces.com/contest/1562/submission/127478977)
+
+D2. Two Hundred Twenty One (hard version)  [(solução)](https://codeforces.com/contest/1562/submission/127479721)
+
+O problema E era de strings. Um assunto que domino muito pouco. Acabei não fazendo upsolve pois era bem difícil.
+
+
+
 ### Tempo total gasto: 31 horas 45 min
 
 Contests em time: 15 horas
@@ -14,7 +75,9 @@ Upsolve: 30 min
 ## 29/08/21 - [Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)](https://codeforces.com/contest/1556) - 2 horas 30 min
 
 Esse contest fiz ao vivo. Consegui resolver o A e B rápidos, porém tomei WA no C e fiquei um bom tempo tentando ajeitar. Já tinha visto
-um problema interativo bem parecido com o D. O E foi um problema bem legal em que usei segtree. Tive a ideia rápido, porém demorei para implementar.
+um problema interativo bem parecido com o D. O E foi um problema bem legal em que usei segtree. Tive a ideia rápido, porém demorei para implementar. 
+Minha solução para ela acabou sendo hackeada depois do contest por causa de um corner case que não percebi, porém passou em todos os casos teste 
+oficiais.
 
 No total eram 8 problemas dos quais resolvi 5. Problemas resolvidos:
 
@@ -28,7 +91,8 @@ D. Take a Guess [(solução)](https://codeforces.com/contest/1556/submission/127
 
 E. Equilibrium [(solução)](https://codeforces.com/contest/1556/submission/127376421)
 
-O problema F era bem interessante. Um problema de expected value, bitmasks e grafos! Infelizmente não tive a ideia dele na hora do contest.
+O problema F era bem interessante. Um problema de expected value, bitmasks e grafos! Bem difícil. Tentei fazer upsolve, porém não tenho muita ideia de como
+implementar. Talvez algum dia eu tente novamente.
 
 
 ### Tempo total gasto: 29 horas 15 min
