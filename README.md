@@ -1,5 +1,38 @@
 # Log dos treinos:
 
+## 03/09/21 - [2016, Samara University ACM ICPC Quarterfinal Qualification Contest](https://codeforces.com/gym/101149) - 5 horas
+
+Esse foi um mashup em que o time foi formado por eu, o Gustavo (do meu time) e o Vequis (um bixo da POLI). Foi bem interessante o contest,
+fizemos bem rápido quase todos os problemas e tomamos pouca penalidade.
+
+Ao todo eram 13 problemas e resolvemos 12. Problemas resolvidos:
+
+A. Balls in Urn [(solução)](https://codeforces.com/gym/101149/submission/127793686)
+
+B. No Time for Dragons [(solução)](https://codeforces.com/gym/101149/submission/127795380)
+
+C. Mathematical Field of Experiments [(solução)](https://codeforces.com/gym/101149/submission/127794337)
+
+E. The Best among Equals [(solução)](https://codeforces.com/gym/101149/submission/127795545)
+
+F. The Weakest Sith [(solução)](https://codeforces.com/gym/101149/submission/127798727)
+
+G. Of Zorcs and Axes [(solução)](https://codeforces.com/gym/101149/submission/127797035)
+
+H. Streets of Working Lanterns [(solução)](https://codeforces.com/gym/101149/submission/127794436)
+
+I. It's the Police [(solução)](https://codeforces.com/gym/101149/submission/127794144)
+
+J. Panoramic Photography [(solução)](https://codeforces.com/gym/101149/submission/127794474)
+
+K. Revenge of the Dragon [(solução)](https://codeforces.com/gym/101149/submission/127798933)
+
+L. Right Build [(solução)](https://codeforces.com/gym/101149/submission/127797389)
+
+M. Ex Machina [(solução)](https://codeforces.com/gym/101149/submission/127799515)
+
+O problema D era consideravelmente mais difícil que os outros. Era de min cut. 
+
 
 
 ### Tempo total gasto: 36 horas 45 min
