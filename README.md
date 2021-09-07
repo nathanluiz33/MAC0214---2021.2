@@ -1,5 +1,131 @@
 # Log dos treinos:
 
+
+
+### Tempo total gasto: 51 horas 45 min
+
+Contests em time: 20 horas
+
+Mashups: 5 horas
+
+Contests individuais: 24 horas 45 min
+
+Upsolve: 2 horas
+
+
+
+
+## 06/09/21 - [Codeforces Round #742 (Div. 2)](https://codeforces.com/contest/1567) - 2 horas
+
+Fiz esse contest virtualmente. O problema C foi um grande problema para mim. Apesar de não passar ele rápido, li o E
+que era de segtree e consegui fazer bem rápido. Infelizmente não tentei o D, o que foi um erro. Apenas passei o C nos
+últimos 5 minutos de prova.
+
+Ao todo eram 6 problemas e resolvi 4. Problemas resolvidos:
+
+A. Domino Disaster [(solução)](https://codeforces.com/contest/1567/submission/128068557)
+
+B. MEXor Mixup [(solução)](https://codeforces.com/contest/1567/submission/128069860)
+
+C. Carrying Conundrum [(solução)](https://codeforces.com/contest/1567/submission/128076511)
+
+E. Non-Decreasing Dilemma [(solução)](https://codeforces.com/contest/1567/submission/128074484)
+
+Depois da prova resolvi o D. Era um greedy que achei mais tranquilo que a minha solução para o C. Olhando o editorial, vi
+que a solução esperada do C era realmente bem mais simples, então fazia sentido a ordem. Problemas upsolvados:
+
+D. Expression Evaluation Error [(solução)](https://codeforces.com/contest/1567/submission/128082999)
+
+
+
+### Tempo total gasto: 49 horas 45 min
+
+Contests em time: 20 horas
+
+Mashups: 5 horas
+
+Contests individuais: 22 horas 45 min
+
+Upsolve: 2 horas
+
+
+
+## 05/09/21 - [2018-2019 ICPC Northwestern European Regional Programming Contest (NWERC 2018)](https://codeforces.com/gym/102483) - 5 horas
+
+Esse foi um treino em que fomos especialmente bem. A prova era bem difícil, com alguns problemas bem chatos de implementar, porém todos os que
+resolvemos não utilizavam conteúdo avançado. Passamos os problemas relativamente rápido e sem tomar muita penalidade. Chegamos perto de resolver o A,
+porém não tivemos muito tempo para pensar. Como um feedback geral, deu para perceber que evoluimos bastante o trabalho em equipe.
+
+Ao todo eram 11 problemas e resolvemos 8. Problemas resolvidos:
+
+B. Brexit Negotiations [(solução)](https://codeforces.com/gym/102483/submission/127990913)
+
+C. Circuit Board Design [(solução)](https://codeforces.com/gym/102483/submission/127999118)
+
+E. Equality Control [(solução)](https://codeforces.com/gym/102483/submission/127997953)
+
+G. Game Design [(solução)](https://codeforces.com/gym/102483/submission/127995318)
+
+H. Hard Drive [(solução)](https://codeforces.com/gym/102483/submission/127990643)
+
+I. Inflation [(solução)](https://codeforces.com/gym/102483/submission/127988874)
+
+J. Jinxed Betting [(solução)](https://codeforces.com/gym/102483/submission/127995535)
+
+K. Kleptography [(solução)](https://codeforces.com/gym/102483/submission/127988944)
+
+Fiquei bastante curioso com os problemas A e F. Ainda não resolvi eles, apesar de já ter visto o editorial.
+
+
+
+### Tempo total gasto: 44 horas 45 min
+
+Contests em time: 15 horas
+
+Mashups: 5 horas
+
+Contests individuais: 22 horas 45 min
+
+Upsolve: 2 horas
+
+
+
+
+## 04/09/21 - [Codeforces Round #734 (Div. 3)](https://codeforces.com/contest/1551) - 2 horas
+
+Fiz esse contest virtualmente. Fui pior do que o esperado pois não percebi a solução esperada do B2. Me compliquei bastante no tempo
+por causa desse problema. De qualquer maneira, na minha opinião esse Div. 3 foi mais difícil do que os outros, o que acho interessante.
+
+No total eram 8 problemas e resolvi 5. Problemas resolvidos:
+
+A. Polycarp and Coins [(solução)](https://codeforces.com/contest/1551/submission/127870151)
+
+B1. Wonderful Coloring - 1 [(solução)](https://codeforces.com/contest/1551/submission/127870696)
+
+C. Interesting Story [(solução)](https://codeforces.com/contest/1551/submission/127872361)
+
+D1. Domino (easy version) [(solução)](https://codeforces.com/contest/1551/submission/127872798)
+
+E. Fixed Points [(solução)](https://codeforces.com/contest/1551/submission/127873964)
+
+Ao final da prova fiz upsolve apenas do B2. Era somente greedy.
+
+B2. Wonderful Coloring - 2 [(solução)](https://codeforces.com/contest/1551/submission/127874760)
+
+
+
+### Tempo total gasto: 42 horas 45 min
+
+Contests em time: 15 horas
+
+Mashups: 5 horas
+
+Contests individuais: 20 horas 45 min
+
+Upsolve: 2 horas
+
+
+
 ## 03/09/21 - [2016, Samara University ACM ICPC Quarterfinal Qualification Contest](https://codeforces.com/gym/101149) - 5 horas
 
 Esse foi um mashup em que o time foi formado por eu, o Gustavo (do meu time) e o Vequis (um bixo da POLI). Foi bem interessante o contest,
@@ -31,7 +157,12 @@ L. Right Build [(solução)](https://codeforces.com/gym/101149/submission/127797
 
 M. Ex Machina [(solução)](https://codeforces.com/gym/101149/submission/127799515)
 
-O problema D era consideravelmente mais difícil que os outros. Era de min cut. 
+O problema D era consideravelmente mais difícil que os outros. Era de mincut e tinha que achar as arestas que formavam o mincut. Por 
+ter um conhecimento muito pequeno de como funciona Dinic, demorei bastante para fazer esse problema (mesmo olhando na internet). Primeiramente
+resolvi uma [versão simplificada do problema](https://atcoder.jp/contests/kupc2016/tasks/kupc2016_e). O código da resolução está 
+[aqui](https://atcoder.jp/contests/kupc2016/submissions/25665597). Abaixo está o problema real do contest:
+
+D. Behind the Wall [(solução)](https://codeforces.com/gym/101149/submission/128160913)
 
 
 
