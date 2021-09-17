@@ -1,6 +1,208 @@
 # Log dos treinos:
 
 
+
+### Tempo total gasto: 69 horas 45 min
+
+Contests em time: 30 horas
+
+Mashups: 5 horas
+
+Contests individuais: 31 horas 45 min
+
+Upsolve: 3 horas
+
+
+
+
+## 16/09/21 - [Codeforces Round #630 (Div. 2)](https://codeforces.com/contest/1332) - 2 horas 30 min
+
+Fiz esse contest virtual que é um pouco antigo. Infelizmente cometi um erro muito besta no problema C
+que custou bastante tempo. Porém, no geral foi uma boa prova.
+
+No total eram 7 problemas e resolvi 5. Problemas resolvidos:
+
+A. Exercising Walk [(solução)](https://codeforces.com/contest/1332/submission/128949372)
+
+B. Composite Coloring [(solução)](https://codeforces.com/contest/1332/submission/128950059)
+
+C. K-Complete Word [(solução)](https://codeforces.com/contest/1332/submission/128952860)
+
+D. Walk on Matrix [(solução)](https://codeforces.com/contest/1332/submission/128951788)
+
+E. Height All the Same [(solução)](https://codeforces.com/contest/1332/submission/128953628)
+
+O problema F aparenta ser bem legal de dp em árvore. Porém, também é difícil. Com certeza está na lista.
+
+
+
+
+### Tempo total gasto: 67 horas 15 min
+
+Contests em time: 30 horas
+
+Mashups: 5 horas
+
+Contests individuais: 29 horas 15 min
+
+Upsolve: 3 horas
+
+
+
+
+## 13/09/21 - [Codeforces Global Round 16](https://codeforces.com/contest/1566) - 2 horas 30 min
+
+Fiz esse contest virtual. Foi uma prova bem interessante. Fiz os 4 primeiros problemas bem rápido. Demorei
+um pouco mais no D2 pois o jeito que implementei era um pouco confuso. Já o problema E, na hora de submeter
+o código na prova, não tinha certeza se o que fiz estava certo. Era um problema de tree um pouco difícil de
+formalizar.
+
+No total eram 9 problemas e resolvi 6. Problemas resolvidos:
+
+A. Median Maximization [(solução)](https://codeforces.com/contest/1566/submission/128768135)
+
+B. MIN-MEX Cut [(solução)](https://codeforces.com/contest/1566/submission/128768272)
+
+C. MAX-MEX Cut [(solução)](https://codeforces.com/contest/1566/submission/128768554)
+
+D1. Seating Arrangements (easy version) [(solução)](https://codeforces.com/contest/1566/submission/128768890)
+
+D2. Seating Arrangements (hard version) [(solução)](https://codeforces.com/contest/1566/submission/128770436)
+
+E. Buds Re-hanging [(solução)](https://codeforces.com/contest/1566/submission/128771210)
+
+O problema F era de segtree bem complicado e legal. Não upsolvei ele ainda, mas está na lista.
+
+
+
+### Tempo total gasto: 64 horas 45 min
+
+Contests em time: 30 horas
+
+Mashups: 5 horas
+
+Contests individuais: 26 horas 45 min
+
+Upsolve: 3 horas
+
+
+
+## 12/09/21 - [2020-2021 ICPC Southwestern European Regional Contest (SWERC 2020)](https://codeforces.com/gym/103081) - 5 horas
+
+Esse contest foi feito em equipe. No meio da prova percebemos algumas falhas. Tivemos basicamente problemas com 
+os templates de hashing e segtree persistente. Infelizmente isso deu um atraso considerável na prova. No final
+fomos bem mal. Apesar disso, 2 problemas não passaram pois não conseguimos debugar a tempo.
+
+No total eram 13 problemas dos quais resolvemos 7. Problemas resolvidos:
+
+A. Gratitude [(solução)](https://codeforces.com/gym/103081/submission/128675347)
+
+C. Safe Distance [(solução)](https://codeforces.com/gym/103081/submission/128677798)
+
+D. Jogging [(solução)](https://codeforces.com/gym/103081/submission/128680354)
+
+E. Cakes [(solução)](https://codeforces.com/gym/103081/submission/128673909)
+
+F. Mentors [(solução)](https://codeforces.com/gym/103081/submission/128681838)
+
+G. Decoration [(solução)]()
+
+H. Figurines [(solução)]()
+
+I. Emails [(solução)](https://codeforces.com/gym/103081/submission/128683527)
+
+K. Unique Activities  [(solução)](https://codeforces.com/gym/103081/submission/128679861)
+
+No final da prova, fiz upsolve do G e H. O G era interessante, porém bem chato de implementar. Era de binary lifting.
+Já o H era quase uma aplicação direta de segtree persistente. Infelizmente nosso template não funcionou na hora da prova
+e não tive coragem de codar na mão. 
+
+Problemas upsolvados:
+
+G. Decoration [(solução)](https://codeforces.com/gym/103081/submission/128705896)
+
+H. Figurines [(solução)](https://codeforces.com/gym/103081/submission/128696543)
+
+
+
+
+
+### Tempo total gasto: 58 horas 45 min
+
+Contests em time: 25 horas
+
+Mashups: 5 horas
+
+Contests individuais: 26 horas 45 min
+
+Upsolve: 2 horas
+
+
+
+## 10/09/21 - [2014, VII Samara Regional Intercollegiate Programming Contest](https://codeforces.com/gym/100460) - 5 horas
+
+Simulei esse contest em equipe. Apesar de ser um Samara, foi bem mais difícil do que eu esperava. Todos os problemas que
+passamos foram resolvidos antes das 3 horas de prova, o que foi consideravelmente rápido. Tiveram 2 problemas que
+não conseguimos passar porém quase passamos a tempo. Talvez se a dinâmica na hora da prova tivesse sido um pouco otimizada,
+daria tempo. 
+
+No total eram 12 problemas e resolvemos 9. Problemas resolvidos:
+
+B. Time of Trial [(solução)](https://codeforces.com/gym/100460/submission/128443616)
+
+C. Born for the Battle [(solução)](https://codeforces.com/gym/100460/submission/128450401)
+
+D. Make It Through Your Way [(solução)](https://codeforces.com/gym/100460/submission/128453107)
+
+E. Blood of Elves [(solução)](https://codeforces.com/gym/100460/submission/128451850)
+
+F. At the Hell's Threshold [(solução)](https://codeforces.com/gym/100460/submission/128448601)
+
+G. Eternal Champion [(solução)](https://codeforces.com/gym/100460/submission/128452617)
+
+H. A Ballad about the Tear [(solução)](https://codeforces.com/gym/100460/submission/128444322)
+
+K. Epilogue [(solução)](https://codeforces.com/gym/100460/submission/128444558)
+
+L. Icy Rider [(solução)](https://codeforces.com/gym/100460/submission/128445470)
+
+O Gustavo fez upsolve do J, que ficamos pensando juntos na hora da prova. Era um problema interativo bem interessante
+que dava pra usar KMP.
+
+
+
+### Tempo total gasto: 53 horas 45 min
+
+Contests em time: 20 horas
+
+Mashups: 5 horas
+
+Contests individuais: 26 horas 45 min
+
+Upsolve: 2 horas
+
+
+
+## 09/09/21 - [Educational Codeforces Round 113 (Rated for Div. 2)](https://codeforces.com/contest/1569) - 2 horas
+
+Simulei esse contest virtualmente. Os problemas até o D eram tranquilos. O D em específico era um pouco chato de
+implementar. Apesar de ter demorado para fazer o A e B, felizmente consegui fazer os problemas rapidamente.
+
+No total eram 6 problemas e resolvi 4. Problemas resolvidos:
+
+A. Balanced Substring [(solução)](https://codeforces.com/contest/1569/submission/128380893)
+
+B. Chess Tournament [(solução)](https://codeforces.com/contest/1569/submission/128381256)
+
+C. Jury Meeting [(solução)](https://codeforces.com/contest/1569/submission/128381550)
+
+D. Inconvenient Pairs [(solução)](https://codeforces.com/contest/1569/submission/128382070)
+
+O problema E era consideravelmente mais difícil que o D. Era um bruteforce small to large muito difícil de codar.
+É bem interessante, porém não cheguei nem perto de fazer na hora da prova.
+
+
+
 ### Tempo total gasto: 51 horas 45 min
 
 Contests em time: 20 horas
