@@ -2,7 +2,7 @@
 
 
 
-### Tempo total gasto: 69 horas 45 min
+### Tempo total gasto: 70 horas 45 min
 
 Contests em time: 30 horas
 
@@ -10,7 +10,7 @@ Mashups: 5 horas
 
 Contests individuais: 31 horas 45 min
 
-Upsolve: 3 horas
+Upsolve: 4 horas
 
 
 
@@ -32,7 +32,10 @@ D. Walk on Matrix [(solução)](https://codeforces.com/contest/1332/submission/1
 
 E. Height All the Same [(solução)](https://codeforces.com/contest/1332/submission/128953628)
 
-O problema F aparenta ser bem legal de dp em árvore. Porém, também é difícil. Com certeza está na lista.
+O problema F é bem legal de DP em árvore. Achei a ideia difícil, mas tranquila de codar. O link da 
+submissão está abaixo:
+
+F. Independent Set [(solução)](https://codeforces.com/contest/1332/submission/129036511)
 
 
 
