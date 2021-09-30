@@ -2,6 +2,397 @@
 
 
 
+### Tempo total gasto: 112 horas 00 min
+
+Contests em time: 50 horas
+
+Mashups: 10 horas
+
+Contests individuais: 46 horas 00 min
+
+Upsolve: 6 horas
+
+
+
+
+## 28/09/21 - [Codeforces Round #744 (Div. 3)](https://codeforces.com/contest/1579) - 2 horas 15 min
+
+Esse foi o último contest Div3 que teve. O único problema legal era o G, de DP. Apesar de resolver os outros rapidamente,
+tomei muita penalidade nele.
+
+Ao todo eram 8 problemas e resolvi 8. Problemas resolvidos:
+
+A. Casimir's String Solitaire [(solução)](https://codeforces.com/contest/1579/submission/130212344)
+
+B. Shifting Sort [(solução)](https://codeforces.com/contest/1579/submission/130212690)
+
+C. Ticks [(solução)](https://codeforces.com/contest/1579/submission/130213008)
+
+D. Productive Meeting [(solução)](https://codeforces.com/contest/1579/submission/130213164)
+
+E1. Permutation Minimization by Deque [(solução)](https://codeforces.com/contest/1579/submission/130213313)
+
+E2. Array Optimization by Deque [(solução)](https://codeforces.com/contest/1579/submission/130213620)
+
+F. Array Stabilization (AND version) [(solução)](https://codeforces.com/contest/1579/submission/130213907)
+
+G. Minimal Coverage [(solução)](https://codeforces.com/contest/1579/submission/130215435)
+
+
+
+
+
+### Tempo total gasto: 109 horas 45 min
+
+Contests em time: 50 horas
+
+Mashups: 10 horas
+
+Contests individuais: 43 horas 45 min
+
+Upsolve: 6 horas
+
+
+
+
+## 27/09/21 - [2019, XII Samara Regional Intercollegiate Programming Contest](https://codeforces.com/gym/102215) - 5 horas
+
+Novamente, resolvi esse contest de 5 horas sozinho para treinar velocidade. Os problemas mais legais da prova eram o D e G.
+O D era de LCA e o G de dp. No G dava para otimizar a dp por Knuth, porém não era necessário e acabei não fazendo. Vale ressaltar
+que já havia resolvido os problemas E e J mais de um ano atrás. Decidi simular o contest pois não lembrava deles e eram problemas
+tranquilos. 
+
+Ao todo eram 13 problemas e resolvi 13. Problemas resolvidos:
+
+A. Rooms and Passages [(solução)](https://codeforces.com/gym/102215/submission/130031039)
+
+B. Rearrange Columns [(solução)](https://codeforces.com/gym/102215/submission/130025419)
+
+C. Jumps on a Circle [(solução)](https://codeforces.com/gym/102215/submission/130028393)
+
+D. Country Division [(solução)](https://codeforces.com/gym/102215/submission/130035740)
+
+E. Third-Party Software - 2 [(solução)](https://codeforces.com/gym/102215/submission/130029922)
+
+F. Friendly Fire [(solução)](https://codeforces.com/gym/102215/submission/130039791)
+
+G. Akinator [(solução)](https://codeforces.com/gym/102215/submission/130041931)
+
+H. Missing Number [(solução)](https://codeforces.com/gym/102215/submission/130037354)
+
+I. Painting a Square [(solução)](https://codeforces.com/gym/102215/submission/130036311)
+
+J. The Power of the Dark Side - 2 [(solução)](https://codeforces.com/gym/102215/submission/130031938)
+
+K. Deck Sorting [(solução)](https://codeforces.com/gym/102215/submission/130033783)
+
+L. Inscribed Circle [(solução)](https://codeforces.com/gym/102215/submission/130026422)
+
+M. Shlakoblock is live! [(solução)](https://codeforces.com/gym/102215/submission/130027425)
+
+
+
+
+### Tempo total gasto: 104 horas 45 min
+
+Contests em time: 50 horas
+
+Mashups: 10 horas
+
+Contests individuais: 38 horas 45 min
+
+Upsolve: 6 horas
+
+
+
+
+## 26/09/21 - [2020, XIII Samara Regional Intercollegiate Programming Contest](https://codeforces.com/gym/102569) - 5 horas
+
+Por ser um Samara, é esperado que seja mais tranquilo. Conseguimos uma penalidade baixa nos primeiros problemas.
+O C, último que passamos era bem legal. Porém, foi horrível ter que otimizar tanto a constante para conseguir passar ele.
+
+Ao todo eram 13 problemas e resolvemos 13. Problemas resolvidos:
+
+A. Array's Hash [(solução)](https://codeforces.com/gym/102569/submission/129949064)
+
+B. Bonuses on a Line [(solução)](https://codeforces.com/gym/102569/submission/129950348)
+
+C. Manhattan Distance [(solução)](https://codeforces.com/gym/102569/submission/129960629)
+
+D. Lexicographically Minimal Shortest Path [(solução)](https://codeforces.com/gym/102569/submission/129955702)
+
+E. Fluctuations of Mana [(solução)](https://codeforces.com/gym/102569/submission/129949229)
+
+F. Moving Target [(solução)](https://codeforces.com/gym/102569/submission/129948622)
+
+G. Nuts and Bolts [(solução)](https://codeforces.com/gym/102569/submission/129956900)
+
+H. Tree Painting [(solução)](https://codeforces.com/gym/102569/submission/129948859)
+
+I. Sorting Colored Array [(solução)](https://codeforces.com/gym/102569/submission/129950378)
+
+J. The Battle of Mages [(solução)](https://codeforces.com/gym/102569/submission/129954218)
+
+K. Table [(solução)](https://codeforces.com/gym/102569/submission/129949349)
+
+L. The Dragon Land [(solução)](https://codeforces.com/gym/102569/submission/129951294)
+
+M. Notifications [(solução)](https://codeforces.com/gym/102569/submission/129949527)
+
+
+
+
+### Tempo total gasto: 99 horas 45 min
+
+Contests em time: 45 horas
+
+Mashups: 10 horas
+
+Contests individuais: 38 horas 45 min
+
+Upsolve: 6 horas
+
+
+
+
+## 24/09/21 - [2016 Benelux Algorithm Programming Contest (BAPC 16)](https://codeforces.com/gym/101490) - 5 horas
+
+Fazia um tempo que não íamos bem em um contest! Dessa vez conseguimos uma penalidade relativamente baixa. Ainda tivemos
+alguns problemas de estratégia, pois um problema mais tranquilo ainda não tinha sido passado na última hora de prova. Porém,
+vamos corrigir isso.
+
+Ao todo eram 12 problemas e resolvemos 9. Problemas resolvidos:
+
+B. Battle Simulation [(solução)](https://codeforces.com/gym/101490/submission/129786284)
+
+C. Brexit [(solução)](https://codeforces.com/gym/101490/submission/129788449)
+
+D. Bridge Automation [(solução)](https://codeforces.com/gym/101490/submission/129798154)
+
+E. Charles in Charge [(solução)](https://codeforces.com/gym/101490/submission/129787509)
+
+G. Manhattan Positioning System [(solução)](https://codeforces.com/gym/101490/submission/129797692)
+
+I. Older Brother [(solução)](https://codeforces.com/gym/101490/submission/129785372)
+
+J. Programming Tutors [(solução)](https://codeforces.com/gym/101490/submission/129789004)
+
+K. Safe Racing [(solução)](https://codeforces.com/gym/101490/submission/129802185)
+
+L. Sticky Situation [(solução)](https://codeforces.com/gym/101490/submission/129785995)
+
+
+
+
+### Tempo total gasto: 94 horas 45 min
+
+Contests em time: 40 horas
+
+Mashups: 10 horas
+
+Contests individuais: 38 horas 45 min
+
+Upsolve: 6 horas
+
+
+
+
+## 23/09/21 - [Codeforces Round #625 (Div. 2, based on Technocup 2020 Final Round)](https://codeforces.com/contest/1321) - 2 horas
+
+Decidi simular aleatoriamente esse contest. Em particular, só achei os problemas E e F interessantes. Ambos eram de segtree.
+
+Ao todo eram 6 problemas e resolvi 5. Problemas resolvidos:
+
+A. Contest for Robots [(solução)](https://codeforces.com/contest/1321/submission/129718015)
+
+B. Journey Planning [(solução)](https://codeforces.com/contest/1321/submission/129718100)
+
+C. Remove Adjacent [(solução)](https://codeforces.com/contest/1321/submission/129718427)
+
+D. Navigation System [(solução)](https://codeforces.com/contest/1321/submission/129718738)
+
+E. World of Darkraft: Battle for Azathoth [(solução)](https://codeforces.com/contest/1321/submission/129719717)
+
+Upsolvei o F. Esse problema foi um dos mais legais que fiz em um bom tempo! A ideia de usar uma seg e mergir os nós com
+hashing era nova para mim. Problemas upsolvados:
+
+F. Reachable Strings [(solução)](https://codeforces.com/contest/1321/submission/129756401)
+
+
+
+
+### Tempo total gasto: 91 horas 45 min
+
+Contests em time: 40 horas
+
+Mashups: 10 horas
+
+Contests individuais: 36 horas 45 min
+
+Upsolve: 5 horas
+
+
+
+
+## 20/09/21 - [2021 ICPC Gran Premio de Mexico 1ra Fecha](https://codeforces.com/gym/103274) - 5 horas
+
+Esse foi um mashup! O time era eu, o Teos e o BrunoMont (da UFMG). A prova em si tinha enunciados muito mal escritos.
+Porém, de qualquer maneira o pessoal do time conseguiu mandar muito bem! Gostaria de dar atenção ao problema G pois
+aprendi a usar bitset nele. Não sabia da existência disso.
+
+Ao todos eram 13 problemas e resolvemos 12. Problemas resolvidos:
+
+A. Alien Crop Triangles [(solução)](https://codeforces.com/gym/103274/submission/129447211)
+
+B. Basel Problem [(solução)](https://codeforces.com/gym/103274/submission/129444961)
+
+C. Cypher Decypher [(solução)](https://codeforces.com/gym/103274/submission/129442452)
+
+E. Escape Room [(solução)](https://codeforces.com/gym/103274/submission/129443266)
+
+F. Fixing Subtitles [(solução)](https://codeforces.com/gym/103274/submission/129443693)
+
+G. Game of Baker [(solução)](https://codeforces.com/gym/103274/submission/129444221)
+
+H. HeatWave [(solução)](https://codeforces.com/gym/103274/submission/129445234)
+
+I. Introducing Teleporting Machine [(solução)](https://codeforces.com/gym/103274/submission/129446359)
+
+J. Just Send the Email [(solução)](https://codeforces.com/gym/103274/submission/129443956)
+
+K. Kids at the Party [(solução)](https://codeforces.com/gym/103274/submission/129442830)
+
+L. Leonel and the powers of two [(solução)](https://codeforces.com/gym/103274/submission/129442614)
+
+M. Moon Dancers [(solução)](https://codeforces.com/gym/103274/submission/129444028)
+
+Esse contest não teve nenhum problema upsolvado. 
+
+
+
+
+### Tempo total gasto: 86 horas 45 min
+
+Contests em time: 40 horas
+
+Mashups: 5 horas
+
+Contests individuais: 36 horas 45 min
+
+Upsolve: 5 horas
+
+
+
+
+## 19/09/21 - [2017-2018 ACM-ICPC Nordic Collegiate Programming Contest (NCPC 2017)](https://codeforces.com/gym/101572) - 5 horas
+
+Esse contest tinha alguns problemas legais. Infelizmente era pra termos ido melhor, porém no final foi razoável. Deu para perceber
+que o trabalho em equipe melhorou. O problema A, em específico, não conseguimos passar por causa de um corner case 'n = 0'. Apesar
+de ter uma hora, nem eu nem o Gustavo percebemos esse detalhe, o que foi uma falha grave.
+
+Ao todo eram 11 problemas e resolvemos 7. Problemas resolvidos:
+
+B. Best Relay Team [(solução)](https://codeforces.com/gym/101572/submission/129288053)
+
+D. Distinctive Character [(solução)](https://codeforces.com/gym/101572/submission/129290513)
+
+E. Emptying the Baltic [(solução)](https://codeforces.com/gym/101572/submission/129288059)
+
+G. Galactic Collegiate Programming Contest [(solução)](https://codeforces.com/gym/101572/submission/129288684)
+
+I. Import Spaghetti [(solução)](https://codeforces.com/gym/101572/submission/129288911)
+
+J. Judging Moose [(solução)](https://codeforces.com/gym/101572/submission/129288065)
+
+K. Kayaking Trip [(solução)](https://codeforces.com/gym/101572/submission/129289353)
+
+Upsolvei apenas o problema A, que estava dando problema no corner case. Problemas resolvidos:
+
+A. Airport Coffee [(solução)](https://codeforces.com/gym/101572/submission/129293086)
+
+
+
+
+
+### Tempo total gasto: 81 horas 45 min
+
+Contests em time: 35 horas
+
+Mashups: 5 horas
+
+Contests individuais: 36 horas 45 min
+
+Upsolve: 5 horas
+
+
+
+
+## 18/09/21 - [2017, X Samara Regional Intercollegiate Programming Contest](https://codeforces.com/gym/101341) - 5 horas
+
+Esse foi o primeiro contest de 5 horas que simulei sozinho. Foi um contest bem interessante. Achei legal para treinar
+velocidade. Teve um problema em específico que achei bem legal de multiplicação de matrizes, o I.
+
+Ao todo eram 13 problemas e resolvi 10. Problemas resolvidos:
+
+A. Streets of Working Lanterns - 2 [(solução)](https://codeforces.com/gym/101341/submission/129225834)
+
+B. Pursuing the Happiness [(solução)](https://codeforces.com/gym/101341/submission/129224925)
+
+C. Urn with Balls [(solução)](https://codeforces.com/gym/101341/submission/129223686)
+
+D. Jumps [(solução)](https://codeforces.com/gym/101341/submission/129223717)
+
+E. Bonuses and Teleports [(solução)](https://codeforces.com/gym/101341/submission/129226566)
+
+G. I love Codeforces [(solução)](https://codeforces.com/gym/101341/submission/129224108)
+
+H. Perfect Ban [(solução)](https://codeforces.com/gym/101341/submission/129224427)
+
+I. Matrix God [(solução)](https://codeforces.com/gym/101341/submission/129231383)
+
+K. Competitions [(solução)](https://codeforces.com/gym/101341/submission/129227790)
+
+M. Last Man Standing [(solução)](https://codeforces.com/gym/101341/submission/129223974)
+
+O problema F era iterativo e o J de jogos e trees. Pensei neles durante a prova mas não consegui resolver a tempo.
+Então, fiz o upsolve. Problemas upsolvados:
+
+F. Circuits [(solução)](https://codeforces.com/gym/101341/submission/129688442)
+
+J. Catch the Monster [(solução)](https://codeforces.com/gym/101341/submission/129695310)
+
+
+
+
+### Tempo total gasto: 75 horas 45 min
+
+Contests em time: 35 horas
+
+Mashups: 5 horas
+
+Contests individuais: 31 horas 45 min
+
+Upsolve: 4 horas
+
+
+
+
+## 17/09/21 - [The 2020 ICPC Asia Shenyang Regional Programming Contest](https://codeforces.com/gym/103202) - 5 horas
+
+Esse com certeza foi um dos contests mais difíceis que já fizemos em equipe. Infelizmente fomos bem mal, não estávamos
+em um bom dia. Apesar disso, tinham alguns problemas bem legais.
+
+Ao total eram 13 problemas e resolvemos 3. Problemas resolvidos:
+
+F. Kobolds and Catacombs [(solução)](https://codeforces.com/gym/103202/submission/129094225)
+
+G. The Witchwood [(solução)](https://codeforces.com/gym/103202/submission/129094483)
+
+K. Scholomance Academy [(solução)](https://codeforces.com/gym/103202/submission/129104502)
+
+
+
+
 ### Tempo total gasto: 70 horas 45 min
 
 Contests em time: 30 horas
