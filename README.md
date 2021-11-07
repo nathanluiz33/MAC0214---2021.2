@@ -1,6 +1,584 @@
 # Log dos treinos:
 
 
+## 20/10/21 - [Codeforces Round #608 (Div. 2)](https://codeforces.com/contest/1271) - 2 horas
+
+Achei os problemas desse contest muito bons. Em especial, o D e E. O D era uma DP em
+um grafo direcionado. O E era mais teoria dos números e perceber alguns padrões.
+
+Ao Todo eram 6 problemas e resolvi 5. Problemas resolvidos:
+
+A. Suits [(solução)](https://codeforces.com/contest/1271/submission/132486526)
+
+B. Blocks [(solução)](https://codeforces.com/contest/1271/submission/132486706)
+
+C. Shawarma Tent [(solução)](https://codeforces.com/contest/1271/submission/132487035)
+
+D. Portals [(solução)](https://codeforces.com/contest/1271/submission/132488016)
+
+E. Common Number [(solução)](https://codeforces.com/contest/1271/submission/132490020)
+
+
+
+### Tempo total gasto: 160 horas 15 min
+
+Contests em time: 75 horas
+
+Mashups: 10 horas
+
+Contests individuais: 69 horas 15 min
+
+Upsolve: 6 horas
+
+
+
+## 18/10/21 - [2019 USP-ICMC](https://codeforces.com/gym/102302) - 5 horas
+
+Esse contest foi uma seletiva individual preparado pelo ICMC em 2019. Contest realmente muito bom.
+Consegui ir melhor do que o esperado, fazendo os problemas que deveria e com penalty baixo.
+
+Ao todo eram 11 problemas e resolvi 8. Problemas resolvidos:
+
+A. Jumping Buildings [(solução)](https://codeforces.com/gym/102302/submission/132381381)
+
+B. Divples [(solução)](https://codeforces.com/gym/102302/submission/132380648)
+
+C. Rectangles [(solução)](https://codeforces.com/gym/102302/submission/132387499)
+
+D. Guessing Messages [(solução)](https://codeforces.com/gym/102302/submission/132380776)
+
+E. Chi's performance [(solução)](https://codeforces.com/gym/102302/submission/132385996)
+
+F. Drawing cards [(solução)](https://codeforces.com/gym/102302/submission/132388342)
+
+H. Log Concave Sequences [(solução)](https://codeforces.com/gym/102302/submission/132382801)
+
+J. Weird Sanchola [(solução)](https://codeforces.com/gym/102302/submission/132389667)
+
+O G era um problema bastante difícil de Nim. Demorei muito para entender a solução, que é curta.
+Problemas upsolvados:
+
+G. Left Stack Game [(solução)](https://codeforces.com/gym/102302/submission/132394521)
+
+
+
+
+### Tempo total gasto: 155 horas 15 min
+
+Contests em time: 75 horas
+
+Mashups: 10 horas
+
+Contests individuais: 64 horas 15 min
+
+Upsolve: 6 horas
+
+
+
+
+## 17/10/21 - [Codeforces Round #749 (Div. 1 + Div. 2, based on Technocup 2022 Elimination Round 1)](https://codeforces.com/contest/1586) - 2 horas
+
+Fui bem mal nesse contest pela alta penalidade que levei. O D era bem legal. O E era difícil de provar e pensar na solução correta, porém
+fácil de codar.
+
+Ao todo eram 9 problemas e resolvi 4. Problemas resolvidos:
+
+A. Windblume Ode [(solução)](https://codeforces.com/contest/1586/submission/132298636)
+
+B. Omkar and Heavenly Tree [(solução)](https://codeforces.com/contest/1586/submission/132298973)
+
+C. Omkar and Determination [(solução)](https://codeforces.com/contest/1586/submission/132301334)
+
+D. Omkar and the Meaning of Life [(solução)](https://codeforces.com/contest/1586/submission/132300474)
+
+Consegui fazer upsolve do E de uma maneira diferente, bem pior que o editorial. Porém, foi interessante.
+
+E. Moment of Bloom [(solução)](https://codeforces.com/contest/1586/submission/132303721)
+
+
+
+
+### Tempo total gasto: 153 horas 15 min
+
+Contests em time: 75 horas
+
+Mashups: 10 horas
+
+Contests individuais: 62 horas 15 min
+
+Upsolve: 6 horas
+
+
+
+
+## 15/10/21 - [2020-2021 ACM-ICPC Pacific Northwest Regional Contest](https://codeforces.com/group/5jHvDMn9r4/contest/349244) - 5 horas
+
+Esse foi um contest settado no privado do grupo do MaratonUSP. Foi um contest muito longo, com problemas legais, porém difícil de 
+organizar a estratégia, pois poucas pessoas estavam fazendo. Fomos bem no geral, mas a penalidade poderia ter sido menor. 
+
+Ao todo eram 17 problemas e resolvemos 12. Problemas resolvidos:
+
+A. No Thanks!
+
+B. Exam Manipulation
+
+E. Bitonic Ordering
+
+F. Derangement Rotations
+
+G. Ant Typing
+
+H. Dominating Duos
+
+I. TripTik
+
+J. Longest Common Subsequence
+
+L. Kth Subtree
+
+M. Bad Packing
+
+O. Rainbow Numbers
+
+P. Reconstruct Sum
+
+Q. Triangular Collection
+
+O problema M resolvi de uma maneira que acredito que não deveria ter passado. A dp ficou O(n^3), com alguns prunings. Então, acabei
+upsolvando ele. Não resolvemos o problema E por alguns minutos. Utilizei pela primeira vez ordered_set! Uma estrutura muito poderosa.
+
+
+
+### Tempo total gasto: 148 horas 15 min
+
+Contests em time: 70 horas
+
+Mashups: 10 horas
+
+Contests individuais: 62 horas 15 min
+
+Upsolve: 6 horas
+
+
+
+## 14/10/21 - [Codeforces Round #748 (Div. 3)](https://codeforces.com/contest/1593) - 2 horas
+
+Esse foi um Div3 mais legal que o normal! Principalmente o D2, F e G eram bem legais. Em específico,
+o G era de segtree.
+
+Eram 8 problemas no total e resolvi 6. Problemas resolvidos:
+
+A. Elections [(solução)](https://codeforces.com/contest/1593/submission/131968994)
+
+B. Make it Divisible by 25 [(solução)](https://codeforces.com/contest/1593/submission/131969488)
+
+C. Save More Mice [(solução)](https://codeforces.com/contest/1593/submission/131969887)
+
+D1. All are Same [(solução)](https://codeforces.com/contest/1593/submission/131970180)
+
+E. Gardener and Tree [(solução)](https://codeforces.com/contest/1593/submission/131971327)
+
+F. Red-Black Number [(solução)](https://codeforces.com/contest/1593/submission/131974312)
+
+Upsolvei os 2 problemas restantes. O D2 era de teoria dos números. Problemas upsolvados:
+
+D2. Half of Same [(solução)](https://codeforces.com/contest/1593/submission/131979296)
+
+G. Changing Brackets [(solução)](https://codeforces.com/contest/1593/submission/131984340)
+
+
+
+### Tempo total gasto: 146 horas 15 min
+
+Contests em time: 70 horas
+
+Mashups: 10 horas
+
+Contests individuais: 60 horas 15 min
+
+Upsolve: 6 horas
+
+
+
+
+## 11/10/21 - [Codeforces Round #747 (Div. 2)](https://codeforces.com/contest/1594) - 2 horas 15min
+
+Esse também foi um contest recente que não consegui fazer ao vivo. Fui melhor do que esperava. O problema E2 era
+muito legal de DP.
+
+Ao todo eram 7 problemas e resolvi 6. Problemas resolvidos:
+
+A. Consecutive Sum Riddle [(solução)](https://codeforces.com/contest/1594/submission/131584573)
+
+B. Special Numbers [(solução)](https://codeforces.com/contest/1594/submission/131584771)
+
+C. Make Them Equal [(solução)](https://codeforces.com/contest/1594/submission/131585315)
+
+D. The Number of Imposters [(solução)](https://codeforces.com/contest/1594/submission/131587844)
+
+E1. Rubik's Cube Coloring (easy version) [(solução)](https://codeforces.com/contest/1594/submission/131586762)
+
+E2. Rubik's Cube Coloring (hard version) [(solução)](https://codeforces.com/contest/1594/submission/131591299)
+
+O problema F era de matemática. Provar a corretude era bem mais difícil que fazer. Muito bom, consegui upsolvar.
+Problemas upsolvados:
+
+F. Ideal Farm [(solução)](https://codeforces.com/contest/1594/submission/131981077)
+
+
+
+### Tempo total gasto: 144 horas 00 min
+
+Contests em time: 70 horas
+
+Mashups: 10 horas
+
+Contests individuais: 58 horas 00 min
+
+Upsolve: 6 horas
+
+
+
+
+## 11/10/21 - [Educational Codeforces Round 115 (Rated for Div. 2)](https://codeforces.com/contest/1598) - 2 horas
+
+Esse foi um Educational recente. Não consegui participar ao vivo, porém simulei. O F parece um problema muito legal, 
+porém não consegui resolver ainda. O E era outro interessante de DP.
+
+Ao todo eram 7 problemas e resolvi 5. Problemas resolvidos:
+
+A. Computer Game [(solução)](https://codeforces.com/contest/1598/submission/131509712)
+
+B. Groups [(solução)](https://codeforces.com/contest/1598/submission/131510007)
+
+C. Delete Two Elements [(solução)](https://codeforces.com/contest/1598/submission/131510440)
+
+D. Training Session [(solução)](https://codeforces.com/contest/1598/submission/131511493)
+
+E. Staircases [(solução)](https://codeforces.com/contest/1598/submission/131509712)
+
+
+
+
+### Tempo total gasto: 142 horas 00 min
+
+Contests em time: 70 horas
+
+Mashups: 10 horas
+
+Contests individuais: 56 horas 00 min
+
+Upsolve: 6 horas
+
+
+
+## 10/10/21 - [2018-2019 ICPC Southwestern European Regional Programming Contest (SWERC 2018)](https://codeforces.com/gym/102465) - 5 horas
+
+Esse gym foi bem difícil. Acredito que fomos bem, fizemos os problemas esperados e recebemos uma penalidade bem baixa!
+
+Ao todo eram 11 problemas e resolvemos 8. Problemas resolvidos:
+
+A. City of Lights [(solução)](https://codeforces.com/gym/102465/submission/131489313)
+
+B. Blurred Pictures [(solução)](https://codeforces.com/gym/102465/submission/131489140)
+
+C. Crosswords [(solução)]()
+
+D. Monument Tour [(solução)](https://codeforces.com/gym/102465/submission/131490494)
+
+E. Rounding [(solução)](https://codeforces.com/gym/102465/submission/131491639)
+
+F. Paris by Night [(solução)](https://codeforces.com/gym/102465/submission/131496558)
+
+H. Travel Guide [(solução)](https://codeforces.com/gym/102465/submission/131496523)
+
+I. Mason's Mark [(solução)](https://codeforces.com/gym/102465/submission/131498735)
+
+K. Dishonest Driver [(solução)](https://codeforces.com/gym/102465/submission/131493850)
+
+No problema C era pra fazer um backtracking com trie. Eu consegui adaptar para backtracking com DP. Infelizmente demorei muito para codar
+e debugar, então não passamos a tempo. Porém, upsolvei! Problemas upsolvados:
+
+C. Crosswords [(solução)](https://codeforces.com/gym/102465/submission/131503841)
+
+
+
+### Tempo total gasto: 137 horas 00 min
+
+Contests em time: 65 horas
+
+Mashups: 10 horas
+
+Contests individuais: 56 horas 00 min
+
+Upsolve: 6 horas
+
+
+
+
+## 08/10/21 - [2018-2019 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/101908) - 5 horas
+
+Simulamos a Subreg 2019! Foi uma prova bem legal, porém deveríamos ter resolvido o B.
+
+Ao todo eram 13 problemas e resolvemos 8. Problemas resolvidos:
+
+C. Pizza Cutter [(solução)](https://codeforces.com/gym/101908/submission/131240599)
+
+D. Unraveling Monty Hall [(solução)](https://codeforces.com/gym/101908/submission/131237145)
+
+E. Enigma [(solução)](https://codeforces.com/gym/101908/submission/131239349)
+
+F. Music Festival [(solução)](https://codeforces.com/gym/101908/submission/131249963)
+
+G. Gasoline [(solução)](https://codeforces.com/gym/101908/submission/131243548)
+
+I. Switches [(solução)](https://codeforces.com/gym/101908/submission/131241239)
+
+K. Kepler [(solução)](https://codeforces.com/gym/101908/submission/131250878)
+
+L. Subway Lines [(solução)](https://codeforces.com/gym/101908/submission/131247663)
+
+O B era sobre Grundy. Foi um problema bastante instrutivo para mim, já que não conhecia a teoria.
+Problemas upsolvados:
+
+B. Marbles [(solução)](https://codeforces.com/gym/101908/submission/131291660)
+
+
+
+### Tempo total gasto: 132 horas 00 min
+
+Contests em time: 60 horas
+
+Mashups: 10 horas
+
+Contests individuais: 56 horas 00 min
+
+Upsolve: 6 horas
+
+
+
+
+## 06/10/21 - [Codeforces Round #602 (Div. 1, based on Technocup 2020 Elimination Round 3)](https://codeforces.com/contest/1261) - 2 horas
+
+Esse foi um Div1 mais fácil que o normal, porém com problemas muito bons! Infelizmente cheguei perto de resolver o C, porém não
+consegui debugar a tempo. O D1 era fazível, porém não pensei nele. Valeu a pena ter simulado.
+
+Eram 8 problemas no total e resolvi 3. Problemas resolvidos:
+
+A. Messy [(solução)](https://codeforces.com/contest/1261/submission/131019606)
+
+B1. Optimal Subsequences (Easy Version) [(solução)](https://codeforces.com/contest/1261/submission/131020087)
+
+B2. Optimal Subsequences (Hard Version) [(solução)](https://codeforces.com/contest/1261/submission/131020074)
+
+Upsolvei o C e D1. O D1 era uma dp e o C busca binária na resposta. Problemas upsolvados:
+
+C. Arson In Berland Forest [(solução)](https://codeforces.com/contest/1261/submission/131023787)
+
+D1. Wrong Answer on test 233 (Easy Version) [(solução)](https://codeforces.com/contest/1261/submission/131030098)
+
+
+
+### Tempo total gasto: 130 horas 00 min
+
+Contests em time: 60 horas
+
+Mashups: 10 horas
+
+Contests individuais: 54 horas 00 min
+
+Upsolve: 6 horas
+
+
+
+## 04/10/21 - [Codeforces Round #603 (Div. 2)](https://codeforces.com/contest/1263) - 2 horas
+
+Esse também era um contest antigo. O problema mais interessante foi o F, apesar de não ter conseguido resolver.
+Pensei bastante nele. Parecia ser fluxo, mas era DP.
+
+Ao todo eram 6 problemas e resolvi 5. Problemas resolvidos:
+
+A. Sweet Problem [(solução)](https://codeforces.com/contest/1263/submission/130840044)
+
+B. PIN Codes [(solução)](https://codeforces.com/contest/1263/submission/130841682)
+
+C. Everyone is a Winner! [(solução)](https://codeforces.com/contest/1263/submission/130841119)
+
+D. Secret Passwords [(solução)](https://codeforces.com/contest/1263/submission/130841411)
+
+E. Editor [(solução)](https://codeforces.com/contest/1263/submission/130842647)
+
+
+
+### Tempo total gasto: 128 horas 00 min
+
+Contests em time: 60 horas
+
+Mashups: 10 horas
+
+Contests individuais: 52 horas 00 min
+
+Upsolve: 6 horas
+
+
+
+
+## 03/10/21 - [2019-2020 ICPC Southeastern European Regional Programming Contest (SEERC 2019)](https://codeforces.com/gym/102392) - 5 horas
+
+Esse foi um contest bastante difícil. Mesmo tendo uma dificuldade maior, acredito que fomos mal. Apesar disso, tinham uns problemas muito bons
+que realmente ensinaram coisas novas.
+
+Eram 11 problemas no total e resolvemos 4. Problemas resolvidos:
+
+D. Cycle String? [(solução)](https://codeforces.com/gym/102392/submission/130736761)
+
+G. Projection [(solução)](https://codeforces.com/gym/102392/submission/130738721)
+
+I. Absolute Game [(solução)](https://codeforces.com/gym/102392/submission/130732236)
+
+J. Graph and Cycles [(solução)](https://codeforces.com/gym/102392/submission/130742498)
+
+O problema B era uma dp que tinha que sortar a entrada antes. Por esse detalhe, não conseguimos passar na hora do contest. Problema upsolvado:
+
+B. Level Up [(solução)](https://codeforces.com/gym/102392/submission/130744587)
+
+
+
+### Tempo total gasto: 123 horas 00 min
+
+Contests em time: 55 horas
+
+Mashups: 10 horas
+
+Contests individuais: 52 horas 00 min
+
+Upsolve: 6 horas
+
+
+
+## 03/10/21 - [Codeforces Round #746 (Div. 2)](https://codeforces.com/contest/1592) - 2 horas
+
+Fiz esse contest ao vivo! Os problemas eram bastante bons, porém o gap de dificuldade do C para o D
+foi bem grande. Apesar disso, consegui fazer A, B e C bem rápido e tive +21 de rating!
+
+Ao todo eram 7 problemas e resolvi 3. Problemas resolvidos:
+
+A. Gamer Hemose [(solução)](https://codeforces.com/contest/1592/submission/130663804)
+
+B. Hemose Shopping [(solução)](https://codeforces.com/contest/1592/submission/130671270)
+
+C. Bakry and Partitioning [(solução)](https://codeforces.com/contest/1592/submission/130691056)
+
+O D parecia muito ser sobre centroid. Era um problema iterativo. Porém, na verdade era de Euler Tour!
+Fiz upsolve dele e do E, que era um greedy. Problemas upsolvados:
+
+D. Hemose in ICPC ? [(solução)](https://codeforces.com/contest/1592/submission/130761751)
+
+E. Bored Bakry [(solução)](https://codeforces.com/contest/1592/submission/130859101)
+
+
+
+
+### Tempo total gasto: 121 horas 00 min
+
+Contests em time: 55 horas
+
+Mashups: 10 horas
+
+Contests individuais: 50 horas 00 min
+
+Upsolve: 6 horas
+
+
+
+
+## 03/10/21 - [Educational Codeforces Round 77 (Rated for Div. 2)](https://codeforces.com/contest/1260) - 2 horas
+
+Esse é um educational antigo. Os problemas eram legais, principalmente o E (apesar de não ter resolvido). 
+Acabei tomando bastante penalty no geral, porém fiz os primeiros problemas rapidamente. 
+
+Eram 6 problemas e resolvi 4. Problemas resolvidos:
+
+A. Heating [(solução)](https://codeforces.com/contest/1260/submission/130608405)
+
+B. Obtain Two Zeroes [(solução)](https://codeforces.com/contest/1260/submission/130608617)
+
+C. Infinite Fence [(solução)](https://codeforces.com/contest/1260/submission/130609171)
+
+D. A Game with Traps [(solução)](https://codeforces.com/contest/1260/submission/130610618)
+
+O E era uma dp que pra mim foi bem difícil de perceber. Porém, upsolvei ele. Problema upsolvado:
+
+E. Tournament [(solução)](https://codeforces.com/contest/1260/submission/130760035)
+
+
+### Tempo total gasto: 119 horas 00 min
+
+Contests em time: 55 horas
+
+Mashups: 10 horas
+
+Contests individuais: 48 horas 00 min
+
+Upsolve: 6 horas
+
+
+
+## 01/10/21 - [2020-2021 ACM-ICPC, Asia Seoul Regional Contest](https://codeforces.com/gym/102920) - 5 horas
+
+Esse foi um gym com problemas bastante técnicos. Apesar disso, conseguimos mandar bem! Foi interessante
+arranjamos templates novos, como de Gauss Elimination. O problema mais interessante que fizemos na minha opinião
+foi o I, em que tivemos que usar seg2D.
+
+Ao todo eram 12 problemas e resolvemos 8. Problemas resolvidos:
+
+A. Autonomous Vehicle [(solução)](https://codeforces.com/gym/102920/submission/130506797)
+
+B. Commemorative Dice [(solução)](https://codeforces.com/gym/102920/submission/130491522)
+
+C. Dessert Café [(solução)](https://codeforces.com/gym/102920/submission/130494030)
+
+E. Imprecise Computer [(solução)](https://codeforces.com/gym/102920/submission/130496615)
+
+G. Mobile Robot [(solução)](https://codeforces.com/gym/102920/submission/130497533)
+
+H. Needle [(solução)](https://codeforces.com/gym/102920/submission/130501140)
+
+I. Stock Analysis [(solução)](https://codeforces.com/gym/102920/submission/130506213)
+
+J. Switches [(solução)](https://codeforces.com/gym/102920/submission/130501048)
+
+Na hora do contest fizemos o problema H com bitset. A complexidade ficou O(n^2), porém com constante bem baixa. Porém, fiz upsolve desse problema 
+com FFT. A nova complexidade ficou O(n logn). Problemas upsolvados:
+
+H. Needle [(solução)](https://codeforces.com/gym/102920/submission/132656429)
+
+
+
+### Tempo total gasto: 114 horas 00 min
+
+Contests em time: 50 horas
+
+Mashups: 10 horas
+
+Contests individuais: 48 horas 00 min
+
+Upsolve: 6 horas
+
+
+
+## 30/09/21 - [Codeforces Round #745 (Div. 1)](https://codeforces.com/contest/1580) - 2 horas
+
+Esse contest foi bastante difícil para mim. O problema A realmente não tive a ideia certa, apesar de ser bem legal.
+O C, apesar de ter codado a ideia certa, minha solução estava logN mais devagar, e por isso não passou.
+
+Ao todo eram 6 problemas e resolvei 0, porém upsolvei 2 deles. Problemas upsolvados:
+
+A. Portal [(solução)](https://codeforces.com/contest/1580/submission/130427901)
+
+C. Train Maintenance [(solução)](https://codeforces.com/contest/1580/submission/130419511)
+
+
 
 ### Tempo total gasto: 112 horas 00 min
 
