@@ -1,6 +1,21 @@
 # Log dos treinos:
 
 
+
+
+### Tempo total gasto: 162 horas 15 min
+
+Contests em time: 75 horas
+
+Mashups: 10 horas
+
+Contests individuais: 71 horas 15 min
+
+Upsolve: 6 horas
+
+
+
+
 ## 20/10/21 - [Codeforces Round #608 (Div. 2)](https://codeforces.com/contest/1271) - 2 horas
 
 Achei os problemas desse contest muito bons. Em especial, o D e E. O D era uma DP em
