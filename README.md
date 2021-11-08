@@ -3,6 +3,246 @@
 
 
 
+### Tempo total gasto: 189 horas 15 min
+
+Contests em time: 90 horas
+
+Mashups: 10 horas
+
+Contests individuais: 83 horas 15 min
+
+Upsolve: 6 horas
+
+
+
+## 30/10/21 - [Subreg 2021](http://maratona.sbc.org.br/primeira-fase/reportsbr2021/score.html) - 5 horas
+
+Felizmente nos classificamos para a nacional! Nosso time (Zikados) se classificou apenas por desempate de penalty. O Enrique (membro do time) passou o B bem rápido e salvou! Felizmente passamos os outros problemas com penalty baixo também, com apenas uma submissão errada. A prova estava bem difícil. Fiquei bastante tempo no problema A e não consegui resolver. Era para eu ter lido a D, era bem mais provável de ter feito. 
+Enfim, deu tudo certo!
+
+
+
+### Tempo total gasto: 184 horas 15 min
+
+Contests em time: 85 horas
+
+Mashups: 10 horas
+
+Contests individuais: 83 horas 15 min
+
+Upsolve: 6 horas
+
+
+
+## 29/10/21 - [Educational Codeforces Round 116 (Rated for Div. 2)](https://codeforces.com/contest/1606) - 2 horas
+
+Fiz esse contest ao vivo. Finalmente consegui atingir Master (vulgo laranjinha) no codeforces! Ele aconteceu um dia antes da tão esperada subreg. Fui bem no contest por ter feito os problemas rapidamente. O problema E era uma dp bem legal.
+
+Ao todo eram 6 problemas e resolvi 4. Problemas resolvidos:
+
+A. AB Balance [(solução)](https://codeforces.com/contest/1606/submission/133457919)
+
+B. Update Files [(solução)](https://codeforces.com/contest/1606/submission/133460302)
+
+C. Banknotes [(solução)](https://codeforces.com/contest/1606/submission/133474109)
+
+E. Arena [(solução)](https://codeforces.com/contest/1606/submission/133510542)
+
+
+
+### Tempo total gasto: 182 horas 15 min
+
+Contests em time: 85 horas
+
+Mashups: 10 horas
+
+Contests individuais: 81 horas 15 min
+
+Upsolve: 6 horas
+
+
+
+## 26/10/21 - [2020 ICPC Universidad Nacional de Colombia Programming Contest](https://codeforces.com/gym/102700) - 5 horas
+
+Esse contest me surpreendeu bastante. Era um contest em equipe, mas decidi fazer solo para treinar velocidade. Os problemas eram incrivelmente bons. Infelizmente vacilei na questão de geometria.
+
+Ao todo eram 14 problemas e resolvi 8. Problemas resolvidos:
+
+D. Dice [(solução)](https://codeforces.com/gym/102700/submission/133196903)
+
+E. Enter to the best problem of this contest! [(solução)](https://codeforces.com/gym/102700/submission/133192582)
+
+F. Free restricted flights [(solução)](https://codeforces.com/gym/102700/submission/133203667)
+
+G. Great dinner [(solução)](https://codeforces.com/gym/102700/submission/133191680)
+
+I. Incredible photography [(solução)](https://codeforces.com/gym/102700/submission/133202962)
+
+K. Katastrophic sort [(solução)](https://codeforces.com/gym/102700/submission/133192233)
+
+L. Lonely day [(solução)](https://codeforces.com/gym/102700/submission/133201613)
+
+M. Magic spells [(solução)](https://codeforces.com/gym/102700/submission/133203860)
+
+Fiz upsolve do A, que era de geometria. Tinha alguns corner cases que
+não percebi, por isso não tinha dado certo. Problemas resolvidos:
+
+A. Approach [(solução)](https://codeforces.com/gym/102700/submission/133204679)
+
+
+
+
+### Tempo total gasto: 177 horas 15 min
+
+Contests em time: 85 horas
+
+Mashups: 10 horas
+
+Contests individuais: 76 horas 15 min
+
+Upsolve: 6 horas
+
+
+
+## 25/10/21 - [Codeforces Round #750 (Div. 2)](https://codeforces.com/contest/1582) - 2 horas 30 min
+
+Esse Div2 foi atípico. Tinha bastante problema, e grande parte deles era
+fazível. Particularmente gostei do formato. Infelizmente poderia ter ido melhor, já que não passei o D.
+
+Eram 8 problemas no total e fiz 5. Problemas resolvidos:
+
+A. Luntik and Concerts [(solução)](https://codeforces.com/contest/1582/submission/133073085)
+
+B. Luntik and Subsequences [(solução)](https://codeforces.com/contest/1582/submission/133064694)
+
+C. Grandma Capa Knits a Scarf [(solução)](https://codeforces.com/contest/1582/submission/133065934)
+
+E. Pchelyonok and Segments [(solução)](https://codeforces.com/contest/1582/submission/133072413)
+
+F. Korney Korneevich and XOR (easy version) [(solução)](https://codeforces.com/contest/1582/submission/133070963)
+
+O D era bem ad-hoc. Fiz upsolve apenas dele. Problema upsolvado:
+
+D. Vupsen, Pupsen and 0 [(solução)](https://codeforces.com/contest/1582/submission/133095117)
+
+
+
+
+### Tempo total gasto: 174 horas 45 min
+
+Contests em time: 85 horas
+
+Mashups: 10 horas
+
+Contests individuais: 73 horas 45 min
+
+Upsolve: 6 horas
+
+
+
+
+## 24/10/21 - [2016-2017 ACM-ICPC Nordic Collegiate Programming Contest (NCPC 2016)](https://codeforces.com/gym/101550) - 5 horas
+
+Achei esse contest realmente muito bom. Os problemas eram bem feitos e
+interessantes. Fomos bem ao final, apesar do alto penalty. Passamos o B e E nos últimos 10 minutos. No E, tivemos a ideia bem rápido, porém não sabíamos codar. Era uma questão de teoria dos números que foi muito instrutiva.
+
+Ao todo eram 11 problemas e resolvemos 9. Problemas resolvidos:
+
+A. Artwork [(solução)](https://codeforces.com/gym/101550/submission/132956768)
+
+B. Bless You Autocorrect! [(solução)](https://codeforces.com/gym/101550/submission/132966505)
+
+C. Card Hand Sorting [(solução)](https://codeforces.com/gym/101550/submission/132957352)
+
+D. Daydreaming Stockbroker [(solução)](https://codeforces.com/gym/101550/submission/132954790)
+
+E. Exponial [(solução)](https://codeforces.com/gym/101550/submission/132966530)
+
+F. Fleecing the Raffle [(solução)](https://codeforces.com/gym/101550/submission/132957758)
+
+G. Game Rank [(solução)](https://codeforces.com/gym/101550/submission/132953909)
+
+J. Jumbled Compass [(solução)](https://codeforces.com/gym/101550/submission/132952636)
+
+K. Keeping the Dogs Apart [(solução)](https://codeforces.com/gym/101550/submission/132963416)
+
+Existia um lema que deixava a solução do E bem mais simples. Aprendi ele
+e fiz upsolve! Abaixo está o código:
+
+E. Exponial [(solução)](https://codeforces.com/gym/101550/submission/132967240)
+
+
+
+
+### Tempo total gasto: 169 horas 45 min
+
+Contests em time: 80 horas
+
+Mashups: 10 horas
+
+Contests individuais: 73 horas 45 min
+
+Upsolve: 6 horas
+
+
+
+
+## 22/10/21 - [2020 ACM-ICPC Nordic Collegiate Programming Contest](https://codeforces.com/group/5jHvDMn9r4/contest/350354) - 5 horas
+
+Esse é um contest do grupo MaratonUSP, no codeforces, que foi
+settado pelo Renzo! Esse foi um contest muito legal, porém não fomos
+tão bem. Acredito que um dos motivos foi por termos perdido muito tempo
+nos problemas difíceis. Então faltou se organizar melhor.
+
+Ao todo eram 13 problemas e resolvemos 6. Problemas resolvidos:
+
+A. Array of Discord
+
+B. Big Brother
+
+C. Coin Stacks
+
+D. Dams in Distress
+
+G. Gig Combinatorics
+
+M. Methodic Multiplication
+
+
+### Tempo total gasto: 164 horas 45 min
+
+Contests em time: 75 horas
+
+Mashups: 10 horas
+
+Contests individuais: 73 horas 45 min
+
+Upsolve: 6 horas
+
+
+
+## 20/10/21 - [Codeforces Global Round 4](https://codeforces.com/contest/1178) - 2 horas 30min
+
+Não fui bem nesse contest. Fiz os 4 primeiros problemas bem rápido, porém não consegui fazer o E. Ele era simples, mas infelizmente não
+tive a ideia correta. 
+
+Ao todo eram 9 problemas e resolvi 4. Problemas resolvidos:
+
+A. Prime Minister [(solução)](https://codeforces.com/contest/1178/submission/132653724)
+
+B. WOW Factor [(solução)](https://codeforces.com/contest/1178/submission/132653910)
+
+C. Tiles [(solução)](https://codeforces.com/contest/1178/submission/132654032)
+
+D. Prime Graph [(solução)](https://codeforces.com/contest/1178/submission/132654355)
+
+O E era bem ad-hoc. Fiz upsolve apenas dele. Problema upsolvado:
+
+E. Archaeology [(solução)](https://codeforces.com/contest/1178/submission/132661182)
+
+
+
+
 ### Tempo total gasto: 162 horas 15 min
 
 Contests em time: 75 horas
