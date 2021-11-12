@@ -1,6 +1,6 @@
 # Log dos treinos:
 
-
+## Perfil no codeforces: [nathan_luiz](https://codeforces.com/profile/nathan_luiz)
 
 
 ### Tempo total gasto: 189 horas 15 min
